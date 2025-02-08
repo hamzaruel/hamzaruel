@@ -20,13 +20,13 @@
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" width="120" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Solidity-E34F26?style=flat-square&logo" alt="Solidity" width="120" />
+      <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" width="120" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo" alt="Rust" width="120" />
+      <img src="//img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" width="120" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Go%20(Golang)-E34F26?style=flat-square&logo" 
+      <img src="//img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" 
       alt="Go (Golang)" width="120" />
     </td>
   </tr>
