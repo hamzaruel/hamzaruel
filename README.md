@@ -1,95 +1,252 @@
 # Hi, I'm Hamza Zahid 👋
 
-"I'm a passionate **blockchain developer** with expertise in **Solidity** and **Rust**, focusing on building **secure smart contracts** for **decentralized applications.** With a solid foundation in **front-end development,** I craft **interactive web experiences** using **HTML, CSS, JavaScript,** and **React.** As a **web accessibility expert,** I strive to make the web inclusive by ensuring compliance with **WCAG standards.** Holding a **Bachelor’s degree in IT from Government College University Faisalabad,** I’m dedicated to innovation, security, and creating intuitive, user-centric applications."
+### Full Stack Developer | Shopify App Developer | SaaS Builder | AI Automation Engineer
+
+I build software that solves real business problems.
+
+From Shopify applications and SaaS platforms to AI-powered automations, accessibility technology, desktop applications, and creative media solutions, I enjoy transforming ideas into products that deliver measurable impact.
+
+Currently, I work as a Full Stack Developer at Ecomback, where I contribute to accessibility-focused technologies, Shopify applications, internal business tools, AI-powered workflows, and video remediation solutions.
+
+My journey started with frontend development and blockchain engineering, but over time I expanded into full-stack product development, Shopify ecosystem development, accessibility engineering, SaaS architecture, desktop applications, AI automation, and digital content production.
+
+What excites me most is building products that improve efficiency, accessibility, and user experience at scale.
 
 ---
 
-## 🛠️ Technologies & Tools I Work With:
+# 🚀 About Me
 
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" width="120" />
-    </td>
-    <td align="center">
-      <img src="//img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" width="120" />
-    </td>
-    <td align="center">
-      <img src="//img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" 
-      alt="Go (Golang)" width="120" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-SEO-4CAF50?style=flat-square&logo=google&logoColor=white" alt="SEO" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="120" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="Trello" width="120" />
-    </td>
-  </tr>
-</table>
+* 💻 Full Stack Developer with experience building production-grade applications.
+* 🛍 Shopify App Developer with successful app deployments.
+* ♿ Accessibility Specialist focused on WCAG compliance and inclusive digital experiences.
+* 🤖 Building AI agents and workflow automation systems.
+* 📹 Experienced in professional video editing and motion graphics.
+* 🖥 Electron developer building desktop applications for internal and commercial use.
+* 🏗 Passionate about SaaS products, automation, and scalable architectures.
+* 🔗 Previously worked in blockchain development using Solidity and Rust.
 
 ---
 
+# 💼 What I Build
 
+## Shopify Solutions
 
-## 💼 Work Experience
+Building modern Shopify experiences beyond traditional theme development.
 
-###  Associate Developer | Ecomback (December 2024 – Present)
-- Developed and optimized websites using **Shopify Liquid** and **custom-built solutions**.
-- Focused on **WCAG 2.1 compliance** to ensure websites are accessible to disabled users by implementing various accessibility tools and standards.
-- Optimized website performance for **SEO** using tools like **Lighthouse** and **Powermapper**, improving visibility and ranking.
-- Collaborated with clients and developers to implement enhancements that ensure the websites cater to a wider audience, focusing on accessibility and user experience.
-
-### Blockchain Developer | Cubix (April 2023 – September 2023)
-- **Developed secure smart contracts** using **Solidity** and **Rust,** enabling seamless interactions and transactions within **decentralized applications (dApps).**
-- **Implemented blockchain-based solutions** for real-world use cases such as **cryptocurrency payments, tokenization,** and **supply chain management,** enhancing transparency and security.
-- **Collaborated with cross-functional teams** to integrate blockchain technologies with existing systems, ensuring **scalability** and **high performance** while adhering to best security practices.
-
-
-### Front-end Developer| Developers Hub (January2023 – December 2024)
-- **Developed dynamic, responsive web applications** using **HTML,** **CSS,** **JS,** and **React,** ensuring a seamless user experience across devices.
-- **Collaborated with design and back-end teams** to implement intuitive user interfaces, enhancing functionality and improving the overall design.
-- **Optimized application performance** by writing clean, efficient code and ensuring cross-browser compatibility, leading to improved loading times and user engagement.
----
-
-## 🎓 Education
-
-**BS - Information Technology**  
-Government College University Faisalabad (2020 - 2024)
+* Custom Shopify Apps
+* Shopify Admin Extensions
+* Shopify APIs (GraphQL & REST)
+* Shopify Store Customization
+* Merchant-Focused Solutions
+* App Deployment & Review Compliance
+* Shopify Workflow Automation
 
 ---
 
-## 🌐 Let's Connect
-- **Email:** hamzaruel361@gmail.com
-- **LinkedIn:** [Hamza Zahid](https://www.linkedin.com/in/hamza-z-9516a8283/)
-- **GitHub:** [Hamzaruel](https://github.com/hamzaruel)
-- **Instagram:** [synchrophi2000](https://www.instagram.com/synchrophi2000/)
+## SaaS Products
+
+Designing and developing scalable software products from concept to deployment.
+
+* Product Architecture
+* Dashboard Applications
+* User Management Systems
+* Subscription Platforms
+* API Integrations
+* Analytics & Reporting
+* Internal Business Tools
+
+---
+
+## Accessibility Engineering
+
+Helping organizations create inclusive digital experiences.
+
+* WCAG 2.1 / 2.2 Compliance
+* Accessibility Audits
+* Accessibility Remediation
+* Screen Reader Optimization
+* ADA Compliance
+* Video Accessibility
+* Accessibility Testing
+
+---
+
+## AI Automation & Agents
+
+Exploring the future of software through intelligent automation.
+
+* AI Agents
+* Workflow Automation
+* OpenAI Integrations
+* Content Automation
+* Business Process Automation
+* Productivity Systems
+* AI-Powered Applications
+
+---
+
+## Desktop Applications
+
+Building powerful desktop software using modern web technologies.
+
+* Electron.js Applications
+* Cross-Platform Development
+* Internal Productivity Tools
+* Automation Utilities
+* Business Software
+
+---
+
+## Creative Production
+
+Combining development with creative storytelling.
+
+### Video Editing
+
+* Adobe Premiere Pro
+* Adobe After Effects
+* Product Videos
+* Corporate Videos
+* Social Media Content
+* Marketing Campaigns
+* Promotional Videos
+
+Over the years, I have worked with international clients to create product showcases, promotional content, marketing campaigns, and business presentations designed to increase engagement and strengthen brand presence.
+
+---
+
+# 🛠 Technology Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Shopify Liquid
+
+### Backend
+
+* Node.js
+* REST APIs
+* GraphQL
+
+### Shopify
+
+* Shopify Apps
+* Shopify CLI
+* Polaris
+* Admin Extensions
+* Theme App Extensions
+
+### AI & Automation
+
+* OpenAI APIs
+* AI Agents
+* Prompt Engineering
+* Workflow Automation
+
+### Accessibility
+
+* WCAG
+* Lighthouse
+* Powermapper
+* Accessibility Testing
+
+### Desktop
+
+* Electron.js
+
+### Blockchain
+
+* Solidity
+* Rust
+* Smart Contracts
+* dApps
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+### Creative
+
+* Adobe Premiere Pro
+* Adobe After Effects
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Developer | Ecomback
+
+### December 2024 – Present
+
+Working on accessibility-focused products, Shopify applications, SaaS solutions, AI-powered workflows, and internal development tools.
+
+### Key Contributions
+
+* Developed and maintained Shopify applications and custom business solutions.
+* Successfully deployed Shopify apps that passed review requirements on the first submission.
+* Built accessibility-focused solutions aligned with WCAG standards.
+* Contributed to video remediation technologies and accessibility tooling.
+* Developed AI-powered automation workflows.
+* Built internal desktop applications using Electron.js.
+* Improved SEO, performance, and usability across multiple projects.
+* Collaborated directly with clients, designers, and developers to deliver scalable products.
+
+---
+
+## Blockchain Developer | Cubix
+
+### April 2023 – September 2023
+
+* Developed smart contracts using Solidity and Rust.
+* Built blockchain-based solutions and dApps.
+* Worked on secure and scalable decentralized systems.
+
+---
+
+## Frontend Developer | Developers Hub
+
+### January 2023 – December 2024
+
+* Built responsive user interfaces using React and JavaScript.
+* Improved application performance and maintainability.
+* Collaborated closely with design and backend teams.
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Information Technology (BSIT)
+
+Government College University Faisalabad
+
+2020 – 2024
+
+---
+
+# 🌱 Currently Exploring
+
+* Advanced AI Agents
+* Multi-Agent Systems
+* AI-Powered SaaS Products
+* Accessibility Technology
+* Shopify App Ecosystem
+* Automation Frameworks
+
+---
+
+# 📫 Connect With Me
+
+* 📧 [Email](mailto:hamzaruell@gmail.com)
+* 💼 **LinkedIn:** [Hamza Zahid](https://www.linkedin.com/in/hamza-z-9516a8283/)
+
+
+---
+
+### "Building accessible software, intelligent automation, and scalable digital products."
